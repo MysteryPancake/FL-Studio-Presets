@@ -16,7 +16,7 @@ I improved the Doom Compressor by adding attack, sustain, release, and dry / wet
 [<img src="Doom_Compressor_2.png" width="512">](Doom_Compressor_2.fst)
 
 ## [Mid / Side Monitor](Mid_Side_Monitor.fst)
-This single knob monitor is useful for quickly checking the contents of your mix.
+This single knob effect is useful for quickly checking the contents of your mix.
 
 [<img src="Mid_Side_Monitor.png" width="512">](Mid_Side_Monitor.fst)
 
@@ -28,7 +28,7 @@ This is useful for spatial effects, such as moving drums close and to the right,
 [<img src="Mid_Side_Panner.png" width="512">](Mid_Side_Panner.fst)
 
 ## [Mid / Side Filter](Mid_Side_Filter.fst)
-This combines mid / side separation with two opposing lowpass / highpass filters for interesting spatial effects.
+This effect combines mid / side separation with two opposing lowpass / highpass filters.
 
 [<img src="Mid_Side_Filter.png" width="512">](Mid_Side_Filter.fst)
 
