@@ -11,6 +11,8 @@ I recreated it using a flat curve in Maximus, which compresses everything to 0 d
 ## [Doom Compressor 2](Doom_Compressor_2.fst)
 I improved the Doom Compressor by adding attack, sustain, release, and dry / wet controls.
 
+[<img src="Doom_Compressor_2.png" width="512">](Doom_Compressor_2.fst)
+
 ## [Mid / Side Monitor](Mid_Side_Monitor.fst)
 This single knob monitor is useful for quickly checking the contents of your mix.
 
@@ -24,3 +26,5 @@ This combines mid / side separation with two opposing lowpass / highpass filters
 
 ## [Mid / Side EQ](Mid_Side_EQ.fst)
 This is identical to the default Mid/Side EQ preset, except with linear phase and oversampling enabled.
+
+[<img src="Mid_Side_EQ.png" width="512">](Mid_Side_EQ.fst)
