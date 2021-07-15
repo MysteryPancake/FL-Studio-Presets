@@ -8,6 +8,8 @@ These presets use existing plugins to produce new effects.
 
 I recreated it using a flat curve in Maximus, which compresses everything to 0 dB.
 
+[<img src="Doom_Compressor.png" width="512">](Doom_Compressor.fst)
+
 ## [Doom Compressor 2](Doom_Compressor_2.fst)
 I improved the Doom Compressor by adding attack, sustain, release, and dry / wet controls.
 
