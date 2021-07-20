@@ -45,10 +45,10 @@ This is identical to the default Clean Master preset, except with the master lim
 ## Fruity Reverb 2 Presets
 
 ### [Reverb Delay](Reverb_Delay.fst)
-This reverb has minimal diffusion which produces a wide delay-like effect.
+This reverb has minimal diffusion to produce a delay-like effect.
 
 ### [Reverb Metallic](Reverb_Metallic.fst)
-This reverb has minimal decay time which produces a metallic effect.
+This reverb has minimal decay to produce a metallic effect.
 
 ### [Reverb Squeaky](Reverb_Squeaky.fst)
-This reverb has high mod depth and mod speed which produces squeak-like pitch slides.
+This reverb has full mod depth to produce squeaky pitch slides.
