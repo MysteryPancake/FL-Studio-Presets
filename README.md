@@ -1,7 +1,5 @@
 # FL Studio Presets
-Presets for FL Studio plugins, mainly for Patcher.
-
-Patcher presets use existing plugins to produce new effects.
+Presets for FL Studio plugins, mainly Patcher.
 
 ## Patcher Presets
 
@@ -43,3 +41,14 @@ This is identical to the default Mid/Side EQ preset, except with linear phase an
 
 ### [Good Master](Good_Master.fst)
 This is identical to the default Clean Master preset, except with the master limiter enabled.
+
+## Fruity Reverb 2 Presets
+
+### [Reverb Delay](Reverb_Delay.fst)
+This reverb has minimal diffusion which produces a wide delay-like effect.
+
+### [Reverb Metallic](Reverb_Metallic.fst)
+This reverb has minimal decay time which produces a metallic effect.
+
+### [Reverb Squeaky](Reverb_Squeaky.fst)
+This reverb has high mod depth and mod speed which produces squeak-like pitch slides.
