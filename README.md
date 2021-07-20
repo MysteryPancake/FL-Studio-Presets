@@ -8,12 +8,12 @@ Patcher presets use existing plugins to produce new effects.
 ### [Doom Compressor](Doom_Compressor.fst)
 [Mick Gordon talked about his Doom Compressor on stream](https://www.youtube.com/watch?v=n7YJcVuxuAQ).
 
-I recreated it using a flat curve in Maximus, which compresses everything to 0 dB.
+This recreates it using a flat curve in Maximus, which compresses everything to 0 dB.
 
 [<img src="Doom_Compressor.png" width="512">](Doom_Compressor.fst)
 
 ### [Doom Compressor 2](Doom_Compressor_2.fst)
-I improved the Doom Compressor by adding attack, sustain, release, and dry / wet controls.
+Improved version of the Doom Compressor which adds attack, sustain, release, and dry / wet controls.
 
 [<img src="Doom_Compressor_2.png" width="512">](Doom_Compressor_2.fst)
 
@@ -23,7 +23,7 @@ This single knob effect is useful for quickly checking the contents of your mix.
 [<img src="Mid_Side_Monitor.png" width="512">](Mid_Side_Monitor.fst)
 
 ### [Mid / Side Panner](Mid_Side_Panner.fst)
-I improved the Mid / Side Monitor by adding left / right panning.
+Improved version of the Mid / Side Monitor which adds left / right panning.
 
 This is useful for spatial effects, such as moving drums close and to the right, or guitars far and to the left.
 
