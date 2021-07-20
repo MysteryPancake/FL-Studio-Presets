@@ -1,7 +1,7 @@
-# FL Studio Patcher Presets
-Patcher presets for FL Studio.
+# FL Studio Presets
+Presets for FL Studio, mainly for Patcher.
 
-These presets use existing plugins to produce new effects.
+Patcher presets use existing plugins to produce new effects.
 
 ## [Doom Compressor](Doom_Compressor.fst)
 [Mick Gordon talked about his Doom Compressor on stream](https://www.youtube.com/watch?v=n7YJcVuxuAQ).
