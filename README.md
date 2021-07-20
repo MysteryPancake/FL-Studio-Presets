@@ -1,5 +1,7 @@
 # FL Studio Presets
-Useful presets for FL Studio plugins.
+Presets for FL Studio plugins, mainly Patcher.
+
+Patcher presets use existing plugins to produce new effects.
 
 ## Patcher Presets
 
