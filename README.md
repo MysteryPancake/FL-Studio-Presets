@@ -39,6 +39,11 @@ This is identical to the default Mid/Side EQ preset, except with linear phase an
 
 [<img src="Mid_Side_EQ.png" width="512">](Mid_Side_EQ.fst)
 
+### [Steep EQ](Steep_EQ.fst)
+Paramatric EQ with all bands locked to the same frequency, width, type and order.
+
+[<img src="Steep_EQ.png" width="512">](Steep_EQ.fst)
+
 ## Maximus Presets
 
 ### [Good Master](Good_Master.fst)
