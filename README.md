@@ -44,6 +44,11 @@ Paramatric EQ with all bands locked to the same frequency, width, type and order
 
 [<img src="Steep_EQ.png" width="512">](Steep_EQ.fst)
 
+### [3-Band Vocoder](3_Band_Vocoder.fst)
+Basic vocoder setup with 3 bands. First sidechain input is modulator, second input is carrier.
+
+[<img src="3_Band_Vocoder.png" width="512">](3_Band_Vocoder.fst)
+
 ## Maximus Presets
 
 ### [Good Master](Good_Master.fst)
