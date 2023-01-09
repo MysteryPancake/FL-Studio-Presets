@@ -49,6 +49,11 @@ Basic vocoder setup with 3 bands. First sidechain input is modulator, second inp
 
 [<img src="3_Band_Vocoder.png" width="512">](3_Band_Vocoder.fst)
 
+### [3-Band Vocoder 2](3_Band_Vocoder_2.fst)
+Same vocoder setup as above, but using Frequency Splitter for precise band splitting.
+
+[<img src="3_Band_Vocoder_2.png" width="512">](3_Band_Vocoder_2.fst)
+
 ## Maximus Presets
 
 ### [Good Master](Good_Master.fst)
